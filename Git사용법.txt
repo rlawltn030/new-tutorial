@@ -1,0 +1,20 @@
+git config --global user.name 아이디
+git config --global user.email 이메일
+git clone https://github.com/rlawltn030/new-tutorial.git (깃 레퍼지토리 홈페이지 주소)
+
+-올리기-
+git add 파일이름.확장명
+git commit -m "Add Text File [document.txt]" ("설명")
+git push
+
+-내려받기-
+git pull 
+
+git commit --amend  커밋 내역 변경 할 수 있음
+
+git log  로그 확인
+git status 상태
+
+git reset --hard 로그   시간여행가능
+
+6강까지 들었음 7강준비
